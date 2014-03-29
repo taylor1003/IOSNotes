@@ -1,0 +1,1 @@
+1.Xcode不能organizer中真机显示为绿色，但不能调试，可能是甚至中目标系统版本号大于真机版本。解决方法，将Target->General->Deployment Target的版本号设置为小于等于真机版本。在相隔一段时间后再次遇到，记下来。
