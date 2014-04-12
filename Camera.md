@@ -1,6 +1,6 @@
 使用AVCaptureSession自定义拍照界面
-
 ===============================
+
 主要类及其初始化
 -------------
 	AVCaptureSession           session
