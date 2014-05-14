@@ -34,3 +34,8 @@ MVVM最初由微软提出，它跟MVC非常相似，但它是一个更懂变通�
 MVVM不仅是解决iOS端复杂逻辑的利器，同样，它具有高可测试行的特性。
 
 我的项目中只是简单的构造出一个视图模型(view model)，不仅适应了新的需求，还兼容旧的需求。它强大的扩展性已经表露无遗，后面鉴于我对MVVM的了解太粗浅，暂时不介绍。
+
+参考资料
+-------
+
+[Model-View-ViewModel for iOS](http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/)
