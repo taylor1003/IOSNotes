@@ -135,7 +135,7 @@ Runtime方法
 
 在[Memory and thread-safe custom property methods](http://www.cocoawithlove.com/2009/10/memory-and-thread-safe-custom-property.html)这篇文章中还提到了一种Objective-C的runtime解决方案。
 
-Objective-C的runtime中实现了一下函数：
+Objective-C的runtime中实现了以下函数：
 
 	id <strong>objc_getProperty</strong>(id self, SEL _cmd, ptrdiff_t offset, BOOL atomic);
 	void <strong>objc_setProperty</strong>(id self, SEL _cmd, ptrdiff_t offset, id newValue, BOOL atomic,
